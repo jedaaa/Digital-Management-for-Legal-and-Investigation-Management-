@@ -1,0 +1,170 @@
+{
+  "case_id": "CASE-MU2BUEKL",
+  "fir_number": "FIR No. 2026/0145",
+  "title": "FIR No. 2026/0145 • State vs. K. Mohanraj & Cyber Syndicate",
+  "crime_category": "Cognizable Offence Under BNS",
+  "legal_sections": "Bharatiya Nyaya Sanhita (BNS)",
+  "originating_station": "Erode Town Police Station (PS-1)",
+  "originating_subdivision": "Sub-Division",
+  "originating_district": "District",
+  "state": "Tamil Nadu",
+  "created_at": "15/9/2026, 12:35:06 pm",
+  "status": "judgement_delivered",
+  "current_custodian": "Directorate of Prosecution / Sessions Court No. 1",
+  "is_old_station_blocked": true,
+  "is_closed": true,
+  "informant": {
+    "name": "Complainant",
+    "phone": "",
+    "address": "",
+    "statement": "Initial complaint registered."
+  },
+  "accused": {
+    "name": "Suspect Under Investigation",
+    "alias": "",
+    "description": "",
+    "status": "Apprehended by CB-CID",
+    "custody_location": "Central Prison, Coimbatore (Remand Section)"
+  },
+  "merkle_audit_trail": [
+    {
+      "step": 1,
+      "actor": "Station GD Writer",
+      "role": "Police Constable / Station Writer",
+      "action": "FIR Forwarded to DSP",
+      "details": "FIR FIR No. 2026/0145 submitted with AI-verified complainant photograph & signature. Statutory alert dispatched to SDPO (DSP).",
+      "timestamp": "15/9/2026, 12:35:06 pm",
+      "block_hash": "0x3b633b0dbdfb4f7e8adb4e9ecb7c1b8b8febf9213e5b91f58b9bb13ad00d5019"
+    },
+    {
+      "step": 2,
+      "actor": "Dr. Priya Raman",
+      "role": "Forensic Science Laboratory (FSL)",
+      "action": "Statutory Forensic Report Sealed",
+      "details": "Forensic report FSL-REP-2026-8437 uploaded under BNSS § 329 / Section 45 BSA. Analyst examination access permanently sealed and revoked.",
+      "timestamp": "15/9/2026, 12:35:07 pm",
+      "block_hash": "0x31f247f5ddb43ebcce5a811f202114b83a40827265375039c87d9aac27c7c880"
+    },
+    {
+      "step": 3,
+      "actor": "DSP P. Manickam (CB-CID SIT)",
+      "role": "CB-CID Special Investigation Team",
+      "action": "Accused Apprehended, New Evidence Filed & Produced in Court",
+      "details": "CB-CID neutralized interstate hideout, apprehended prime accused, attached new ballistic/CDR evidence, and formally produced accused in court (Ajar / Haazir).",
+      "timestamp": "15/9/2026, 12:35:07 pm",
+      "block_hash": "0x7f058a92c0b5b7ce768b7ca95fe39b2a6ca08e29cea27fc9b9ec86ed87161bf5"
+    },
+    {
+      "step": 4,
+      "actor": "Court Administrative Registrar (ADM-CRT-01)",
+      "role": "Principal Sessions Court Registry Admin",
+      "action": "Prosecutor Assigned to Docket",
+      "details": "Court Admin registered CB-CID Final Report on judicial docket. Assigned Public Prosecutor Thiru K. Natarajan (Senior PP) and listed before Hon. Justice K. R. Deshmukh, Principal Sessions Judge.",
+      "timestamp": "15/9/2026, 12:35:07 pm",
+      "block_hash": "0x4fd0f1035128166e6834c35bd48d0e5e808b67d15fe6b2f8a50afc2912aabb60"
+    },
+    {
+      "step": 5,
+      "actor": "Intruder Terminal (UNAUTHORIZED-BREACH)",
+      "role": "Unauthorized Intruder",
+      "action": "TAMPER_ALERT: Cryptographic Ledger",
+      "details": "CRITICAL ALERT: Unauthorized tampering detected on case FIR No. 2026/0145. Immediate emergency notification transmitted to ADGP Command Hub.",
+      "timestamp": "15/9/2026, 12:35:07 pm",
+      "block_hash": "0xaee9be2550a5f0037aedd7736ddbb0b9caa92bfd3bcd338fe82ce22a32765c56"
+    }
+  ],
+  "inspector_documents": {
+    "filled_at": "15/9/2026, 12:35:07 pm",
+    "filled_by": "Inspector K. Senthil Nathan (SHO, PS-1)",
+    "police_reports_summary": "Comprehensive Spot Verification & Occasion Diary recorded under BNS § 173.",
+    "investigation_notes": "Visited scene at Brough Road, cordoned entry point, lifted 9mm cartridge casing and recorded surveillance camera timestamps.",
+    "witness_statements_summary": "Recorded statements of Complainant S. Ramanathan (CW-1) and Night Watchman K. Arumugam (CW-2) under BNSS § 180.",
+    "charge_sheets_summary": "Preliminary Charge-Sheet drafted against absconding syndicate members under BNS §§ 303(2), 351, 111.",
+    "evidence_records_summary": "Seized 1 fired 9mm casing (Ex-1), damaged cash register latch (Ex-2), CCTV thumb drive with SHA-256 hash (Ex-3)."
+  },
+  "station_admin_requisition": {
+    "requested_at": "15/9/2026, 12:35:07 pm",
+    "requested_by": "Station Administrator (Inspector V. Balan)",
+    "status": "assigned",
+    "target_lab": "State Forensic Science Laboratory (SFSL), Mylapore, Chennai"
+  },
+  "fsl_assignment": {
+    "assigned_to": "Dr. Priya Raman (Senior Scientific Officer, FSL-BIO-01)",
+    "assigned_by": "Director, State Forensic Science Laboratory",
+    "timestamp": "15/9/2026, 12:35:07 pm"
+  },
+  "forensic_report": {
+    "report_id": "FSL-REP-2026-8437",
+    "analyst_name": "Dr. Priya Raman",
+    "analyst_designation": "Bio & Ballistics Forensic Analyst",
+    "specialization": "Bio & Ballistics Division",
+    "test_methodology": "Gas Chromatography, STR DNA Electrophoresis & Striation Microscopy",
+    "conclusive_findings": "STR DNA profiling and ballistic striation match confirmed against suspect weapon.",
+    "statutory_certificate": "Section 45 Bharatiya Sakshya Adhiniyam (BSA) / BNSS § 329",
+    "sha256_hash": "0x31f247f5ddb43ebcce5a811f202114b83a40827265375039c87d9aac27c7c880",
+    "submitted_at": "15/9/2026, 12:35:07 pm",
+    "access_revoked": true
+  },
+  "inter_agency_handover": {
+    "handed_over_by": "Station Administrator (Inspector V. Balan)",
+    "handed_over_to": "Inter-Agency Administrator (ADM-CBI-SZ)",
+    "assigned_to_adgp": "Additional Director General of Police (ADGP), Crime Branch-CID",
+    "timestamp": "15/9/2026, 12:35:07 pm"
+  },
+  "cbcid_documents": {
+    "updated_at": "15/9/2026, 12:35:07 pm",
+    "updated_by": "Shri A. K. Viswanathan, IPS (ADGP, CB-CID)",
+    "police_reports_summary": "CB-CID Special Task Force Interstate Crime Intelligence Dossier filed under BNSS § 178.",
+    "investigation_notes": "Interstate syndicate hideout neutralized in Bangalore border. Prime accused apprehended. Cross-border arms procurement nexus uncovered.",
+    "witness_statements_summary": "Protected Witness (PW-3 & PW-4) depositions recorded under camera supervision under BNSS § 183 with judicial safeguards.",
+    "charge_sheets_summary": "Enhanced Final Form Charge-Sheet filed invoking Organized Crime Syndicate BNS § 111 & Section 25 Arms Act.",
+    "evidence_records_summary": "Recovered country-made pistol (Ex-4), ₹12.8 Lakhs looted cash (Ex-5), encrypted satellite phone with IMEI log (Ex-6)."
+  },
+  "cbcid_charge_sheet": {
+    "lead_io": "DSP P. Manickam (CB-CID SIT)",
+    "io_rank": "DSP - Crime Branch CID (Special Investigation Team)",
+    "apprehension_details": "Accused Suspect Under Investigation intercepted at inter-state border checkpost during joint intelligence operation. Illicit weapons and evidence recovered.",
+    "new_evidence_collected": [
+      "Call Detail Records (CDR) & cell tower triangulation linking accused to crime scene",
+      "Confession and Physical Recovery Memo under Section 23 Bharatiya Sakshya Adhiniyam (BSA)",
+      "Forensic Ballistic Certificate matching recovered weapon with fired cartridge",
+      "Seizure of counterfeit identity documents and transit vehicles"
+    ],
+    "court_production_date": "15/9/2026",
+    "remand_status": "Accused formally produced (Ajar / Haazir) before Judicial Magistrate & remanded to 14-day Judicial Custody."
+  },
+  "court_assignment": {
+    "court_name": "Principal District and Sessions Court, Tamil Nadu",
+    "assigned_prosecutor": "Thiru K. Natarajan (Senior PP)",
+    "presiding_judge": "Hon. Justice K. R. Deshmukh, Principal Sessions Judge",
+    "court_room": "Court Hall No. 1 (Sessions Division)",
+    "assignment_timestamp": "15/9/2026, 12:35:07 pm"
+  },
+  "defence_docket": {
+    "counsel_name": "Adv. S. Ramachandran (Senior Defence Counsel)",
+    "bar_council_number": "BAR-TN-01",
+    "vakalatnama_filed_at": "15/9/2026, 12:35:07 pm",
+    "report_inspected": true,
+    "bail_plea_status": "Awaiting Dossier Inspection",
+    "access_status": "granted",
+    "requested_at": "15/9/2026, 12:35:07 pm",
+    "granted_at": "15/9/2026, 12:35:07 pm",
+    "granted_by": "Shri A. K. Viswanathan, IPS (ADGP, CB-CID)"
+  },
+  "is_sealed": true,
+  "judicial_filings": {
+    "judge_name": "Hon. Justice K. R. Deshmukh (Principal Sessions Judge)",
+    "submitted_at": "15/9/2026, 12:35:07 pm",
+    "filings_text": "Formal Cognizance Order under BNSS § 210, Charge Framing Order under BNSS § 251, Evidence Examination Record of PW-1 to PW-4.",
+    "notices_text": "Statutory Summons to IO, Forensic Analyst Subpoena under Section 329 BNSS, Production Warrant Form 42 issued to Central Prison."
+  },
+  "judgement_decree": {
+    "judge_name": "Hon. Justice K. R. Deshmukh (Principal Sessions Judge)",
+    "order_type": "CONVICTION",
+    "operative_ruling": "Court finds prime accused GUILTY of Armed Extortion and Syndicate Robbery under BNS §§ 303(2), 351, 111. Sentenced to 7 Years Rigorous Imprisonment & ₹50,000 fine. Case docket is permanently closed and sealed on the immutable blockchain ledger.",
+    "sentence_period": "7 Years Rigorous Imprisonment (RI)",
+    "fine_amount": "₹50,000/-",
+    "pronounced_at": "15/9/2026, 12:35:07 pm",
+    "recorded_by_court_admin": "Court Administrative Registrar"
+  }
+}
